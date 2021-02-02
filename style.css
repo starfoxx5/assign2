@@ -32,6 +32,7 @@ img {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 80%;
+  align-content: center;
 }
 
 td, th {
