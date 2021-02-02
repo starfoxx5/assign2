@@ -54,5 +54,5 @@ tr:nth-child(even) {
 .list-font {
   font-family: arial, sans-serif;
   text-align: center;
-  list-style: inside;
+  list-style-position: inside;
 }
