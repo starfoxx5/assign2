@@ -137,6 +137,13 @@ tr:nth-child(even) {
 
 /* For Form */
 /* Style inputs with type="text", select elements and textareas */
+
+.form {
+  font-weight: bold;
+  font-family: arial, sans-serif;
+}
+
+
 input[type=text], select, textarea {
   font-family: arial, sans-serif;
   width: 100%; /* Full width */
