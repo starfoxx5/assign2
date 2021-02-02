@@ -23,7 +23,6 @@ h3 {
 }
 
 img {
-  align-self: center;
   max-width: 100%;
   width: auto;
  }
@@ -36,7 +35,7 @@ img {
 
 td, th {
   border: 1px solid #dddddd;
-  text-align: left;
+  text-align: center;
   padding: 8px;
 }
 
