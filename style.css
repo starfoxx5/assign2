@@ -23,7 +23,7 @@ h3 {
 }
 
 img {
-  align-content: center;
+  align-self: center;
   max-width: 100%;
   width: auto;
  }
