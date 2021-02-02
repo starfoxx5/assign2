@@ -13,10 +13,12 @@ h1 {
   font-weight: bold;
   text-align: center;
   font-family: arial, sans-serif;
+  color: red;
 }
 h2  {
   text-align: center;
   font-family: arial, sans-serif;
+  color: red;
 }
 
 h3 {  
@@ -32,10 +34,11 @@ h3 {
     width: 50%;
 }
 
-table {
+table:hover {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 80%;
+  background-color: lightblue;
 }
 
 td, th {
@@ -53,7 +56,14 @@ tr:nth-child(even) {
   margin-right: auto;
 }
 
-.list-font {
+.list-font1 {
+  font-family: arial, sans-serif;
+  text-align: center;
+  list-style-position: inside;
+  list-style-type: square;
+}
+
+.list-font2 {
   font-family: arial, sans-serif;
   text-align: center;
   list-style-position: inside;
