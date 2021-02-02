@@ -25,16 +25,18 @@ h3 {
   font-family: arial, sans-serif;
 }
 
-img {
-  max-width: 100%;
-  text-align: center;
- }
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 80%;
-  }
+}
 
 td, th {
   border: 1px solid #dddddd;
